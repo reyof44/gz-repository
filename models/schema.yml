@@ -19,7 +19,7 @@ models:
               - not_null 
 
           - name: qty
-            
+            description : the quantity of the product bought by the customers in the orders
 
           - name: turnover
             description: calculate the turnover
